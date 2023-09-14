@@ -1,0 +1,7 @@
+README.md
+setup.py
+pyvasprun.egg-info/PKG-INFO
+pyvasprun.egg-info/SOURCES.txt
+pyvasprun.egg-info/dependency_links.txt
+pyvasprun.egg-info/requires.txt
+pyvasprun.egg-info/top_level.txt

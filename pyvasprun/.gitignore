@@ -1,0 +1,3 @@
+#Directories ignored
+dist/
+build/

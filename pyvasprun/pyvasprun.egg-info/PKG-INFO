@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: pyvasprun
+Version: 0.1.0
+Summary: Package for extract and plot bands structure from vasprun.xml files.
+Author: Raúl Guerrero
+Requires-Python: >=3.8
+Requires-Dist: pandas>=1.5.3
+Requires-Dist: numpy>=1.23.5
+Requires-Dist: ipykernel>=6.25.2
